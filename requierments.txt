@@ -6,3 +6,4 @@ sentence-transformers
 faiss-cpu
 pypdf
 docx2txt
+streamlit
